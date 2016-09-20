@@ -15,4 +15,16 @@
         android:layout_height="wrap_content"
         android:text="@string/buttonStop" />
 
+    <Button
+        android:id="@+id/service_start"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/service_start" />
+
+    <Button
+        android:id="@+id/service_stop"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/service_stop" />
+
 </LinearLayout>
